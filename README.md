@@ -7,7 +7,7 @@
   <h2>Olá, pessoal! Sejam muito bem-vindos ao meu cantinho no GitHub. 👋</h2> 
   <p>Eu sou o Nil. Sou formado em administração pela Universidade Metodista de SP, mas a paixão pelos dados me trouxe até a área de Data Science, onde estou atualmente estudando na UNIVESP e me aprimorando através de diversos cursos em diferentes plataformas.</p>
   <p>Além do mundo dos dados, tenho uma lista interminável de paixões e interesses. Sou completamente apaixonado por robótica, impressão 3D, eletrônica e tudo que envolve projetos DIY. Ah, e não posso esquecer de mencionar o futebol (Vai Corinthians!), as plantas e a apicultura, afinal, sou curioso por natureza e gosto de explorar uma variedade de áreas.</p>
-  <p>Nesse perfil, vocês vão conhecer um pouco das minhas habilidades nesse mundo dos dados. Estou sempre me aprimorando em Python, Pandas, PySpark, SQL, AWS, PowerBI e Tableau. Além disso, ocasionalmente, também me aventuro com algumas coisas em C++.</p>
+  <p>Nesse perfil, vocês vão conhecer um pouco das minhas habilidades nesse mundo dos dados. Estou sempre me aprimorando em Python, Pandas, Oracle, SQL, AWS, PowerBI e Tableau. Além disso, ocasionalmente, também me aventuro com algumas coisas em C++.</p>
 </body>
 </html>
 
