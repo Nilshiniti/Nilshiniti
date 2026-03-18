@@ -1,34 +1,73 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="utf-8">
-</head>
-<body>
-  <h2>Olá, pessoal! Sejam muito bem-vindos ao meu cantinho no GitHub. 👋</h2> 
-  <p>Eu sou o Nil. Sou formado em administração pela Universidade Metodista de SP, mas a paixão pelos dados me trouxe até a área de Data Science, onde estou atualmente estudando na UNIVESP e me aprimorando através de diversos cursos em diferentes plataformas.</p>
-  <p>Além do mundo dos dados, tenho uma lista interminável de paixões e interesses. Sou completamente apaixonado por robótica, impressão 3D, eletrônica e tudo que envolve projetos DIY. Ah, e não posso esquecer de mencionar o futebol (Vai Corinthians!), as plantas e a apicultura, afinal, sou curioso por natureza e gosto de explorar uma variedade de áreas.</p>
-  <p>Nesse perfil, vocês vão conhecer um pouco das minhas habilidades nesse mundo dos dados. Estou sempre me aprimorando em Python, Pandas, Oracle, SQL, AWS, PowerBI e Tableau. Além disso, ocasionalmente, também me aventuro com algumas coisas em C++.</p>
-</body>
-</html>
+👨‍💻 Sobre mim
+Olá! Sou o Nil, Analista de Dados com formação em Administração pela Universidade Metodista de SP, atualmente estudando Ciência de Dados na UNIVESP e cursando uma Pós-Graduação em Inteligência Artificial.
+Minha transição de carreira para dados foi movida pela curiosidade e pela certeza de que os dados têm o poder de transformar decisões. Hoje, atuo com análise de dados, construção de modelos de Machine Learning e automação de processos com IA.
+Quando não estou mergulhado em dados, me encontro explorando projetos de:
+🤖 Robótica • 🖨️ Impressão 3D • ⚡ Eletrônica • 🌱 Plantas • 🐝 Apicultura • ⚽ Futebol (Vai Corinthians!)
 
-
-<h3>Linguagens e Tecnologias:</h3> 
+🚀 Tech Stack
+🧠 Data Science & Machine Learning
 <div>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
-<img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/3ba85b7e0450f08dc9c3d6c9b557722493eec4a833a3282d05bc76617560343b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d476974" data-canonical-src="https://img.shields.io/badge/-Git-white?style=for-the-badge&amp;logo=Git" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" style="max-width: 100%;">
-  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+🗄️ Banco de Dados & Cloud
+<div>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
+📊 BI & Visualização
+<div>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</div>
+🛠️ Ferramentas
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-<h3>Minhas redes: </h3>
-
-<div>
-  <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin" style="max-width: 100%;">
-<a href="https://www.linkedin.com/in/nilson-shiniti-fukano/" title="My LinkedIn" rel="nofollow">LinkedIn
-  
+📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilshiniti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilshiniti&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilshiniti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="streak stats"/>
 </div>
 
+🎯 Projetos em Destaque
 
+🚧 Em breve, destaque dos principais modelos de ML e análises — fique de olho!
+
+ProjetoDescriçãoTecnologias🤖 Modelos de MLImplementações de algoritmos de Machine LearningPython, Scikit-Learn📊 Análises de DadosDashboards e análises exploratóriasPandas, Power BI🧠 IA AplicadaProjetos da Pós em Inteligência ArtificialTensorFlow, Python
+
+📚 Formação & Certificações
+
+🎓 Administração — Universidade Metodista de SP
+📡 Ciência de Dados — UNIVESP (em andamento)
+🤖 Pós-Graduação em Inteligência Artificial (em andamento)
+📜 Cursos contínuos em Data Science, ML e Cloud
+
+
+🌐 Onde me encontrar
+<div align="center">
+  <a href="https://www.linkedin.com/in/nilshiniti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nilshiniti@yahoo.com.br">
+    <img src="https://img.shields.io/badge/Yahoo!_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nilshiniti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
